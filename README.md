@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Zakaria 👋
 
-<!--
-**Zakaria-Bouchene/Zakaria-Bouchene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at USTHB (Artificial Intelligence)  
+💼 IT Manager  
+🚀 Founder of UltraTech Solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am passionate about building intelligent systems and reliable IT infrastructures that solve real business problems.  
+
+I combine:
+- AI & software development
+- IT systems management
+- Business-oriented technology solutions
+
+---
+
+## 🔧 Tech Stack
+
+- 💻 Programming: Python, Java, C
+- 🤖 AI & ML fundamentals
+- 🗄️ Databases & System Design
+- 🖥️ IT Infrastructure & Optimization
+
+---
+
+## 📈 Current Focus
+
+- Artificial Intelligence
+- Scalable systems
+- Automation & business tools
+- Building impactful tech projects
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/zakaria-bouchene/
+- Website: https://zakaria-bouchene.github.io/portfolio/
+---
+
+⭐ Always learning. Always building.
