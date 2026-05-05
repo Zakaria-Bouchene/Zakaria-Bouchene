@@ -2,13 +2,14 @@
 
 🎓 Computer Science student at USTHB (Artificial Intelligence)  
 💼 IT Manager  
-🚀 Founder of UltraTech Solutions  
-
+🌍 AI Engineer   
+🚀 Founder of <a href="https://ultratechofficiel.com" target="_blank" rel="noreferrer">UltraTech  </a>   
+🔴 Live Project <a href="https://stimica.com" target="_blank" rel="noreferrer">Stimica  </a>  
 ---
 
 ## 🧠 About Me
 
-I am passionate about building intelligent systems and reliable IT infrastructures that solve real business problems.  
+I am into building intelligent systems and reliable IT infrastructures that solve real business problems.  
 
 I combine:
 - AI & software development
@@ -19,7 +20,7 @@ I combine:
 
 ## 🔧 Tech Stack
 
-- 💻 Programming: Python, Java, C
+- 💻 Programming: Python, Java, C, JavaScript, Bash, AHK
 - 🤖 AI & ML fundamentals
 - 🗄️ Databases & System Design
 - 🖥️ IT Infrastructure & Optimization
@@ -40,5 +41,6 @@ I combine:
 - LinkedIn: https://www.linkedin.com/in/zakaria-bouchene/
 - Website: https://zakaria-bouchene.github.io/portfolio/
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-bouchene&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-bouchene" /> </p>
+---
 ⭐ Always learning. Always building.
